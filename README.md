@@ -20,7 +20,7 @@ searching
 
 ```
 
-## Inspired By [The Algorithms - Java](https://github.com/TheAlgorithms/Java)
+#### Inspired By [The Algorithms - Java](https://github.com/TheAlgorithms/Java)
 
 ### What is Data Structure/why it is important?
 Computer is fast at solving numeric problems. But business application requires - complex data for the purpose. And apart from Computer no-one have any idea about binary number system. 
