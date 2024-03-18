@@ -9,6 +9,7 @@ data_structures
       - singly linkedlist
       - doubly linkedlist
       - circular linkedlist
+  - Queue    
 sorting
   - bubble sort
   - quick sort
